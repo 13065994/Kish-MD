@@ -2,32 +2,32 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['254745936840']
-global.ownername = "KISH"//owner name
-global.ytname = "YT: Kish-MD"
-global.socialm = "GitHub: Kish-MD"
+global.ownernumber = ['2348121662697']
+global.ownername = "Gerald"//owner name
+global.ytname = "YT: null404"
+global.socialm = "GitHub: 13065994 & Mateo-Chatbot"
 global.location = "Kenya"
 
-global.botname = 'KISH-MD' //name of the bot
+global.botname = 'Mateo Chatbot' //name of the bot
 
 //sticker details
-global.stickername = 'KISH-MD'
+global.stickername = 'Gerald-MD'
 global.packname = 'Sticker By'
-global.author = 'Kish Bot'
+global.author = 'Bot'
 //console view/theme
 global.themeemoji = '𓅃'
-global.wm = "Kish botz inc."
+global.wm = "gerald botz inc."
 
 //theme link
 //global.link = 'https://chat.whatsapp.com/LhBwWwQAS4y93XOsCKpxdv'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['/']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
 global.autoRecording = true //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
@@ -38,7 +38,7 @@ global.autoread_status = true //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Kish MD 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Brashokish/Kish-MD\n',
+    done: '*here you go!* \n\n*🎀 Gerald 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/13065994/Kish-MD\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
